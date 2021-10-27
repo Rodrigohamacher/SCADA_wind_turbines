@@ -1,6 +1,6 @@
 *__pycache__*
 # ignore files inside the folders
-*/dataset/*
+dataset/*
 
 # keep empty folders to the rule
 !*/dataset/.gitkeep
